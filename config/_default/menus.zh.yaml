@@ -1,0 +1,4 @@
+home:
+  - name: "指南手册"
+    url: "/zh/docs/vr_vs_real-life/"
+    weight: 1

@@ -1,0 +1,4 @@
+home:
+  - name: "Guidebook"
+    url: "/docs/vr_vs_real-life/"
+    weight: 1
