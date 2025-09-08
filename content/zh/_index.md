@@ -10,7 +10,7 @@ layout: landing
 
 {{< badge style="info" title="License" value="MIT" >}} {{< badge style="success" title="Built with Hugo" value="Passing" >}}
 
-![vrchat-banner](/images/vrc-banner.jpg)
+![vrchat-banner](./../images/vrc-banner.jpg)
 
 </div>
 

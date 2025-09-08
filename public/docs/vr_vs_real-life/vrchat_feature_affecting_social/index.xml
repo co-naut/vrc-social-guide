@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VRChat Features That Affect Social Choices on VRChat Social Guide</title>
-    <link>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/</link>
+    <link>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/</link>
     <description>Recent content in VRChat Features That Affect Social Choices on VRChat Social Guide</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anonymity</title>
-      <link>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</link>
+      <link>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</guid>
       <description>&lt;h1 id=&#34;anonymity&#34;&gt;&#xA;  Anonymity&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#anonymity&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Avatar</title>
-      <link>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</link>
+      <link>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</guid>
       <description>&lt;h1 id=&#34;avatar&#34;&gt;&#xA;  Avatar&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#avatar&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Block/Mute Features</title>
-      <link>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</link>
+      <link>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</guid>
       <description>&lt;h1 id=&#34;blockmute-features&#34;&gt;&#xA;  Block/Mute Features&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#blockmute-features&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Earmuff Mode</title>
-      <link>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</link>
+      <link>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</guid>
       <description>&lt;h1 id=&#34;earmuff-mode&#34;&gt;&#xA;  Earmuff Mode&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#earmuff-mode&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
   </channel>

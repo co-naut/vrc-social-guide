@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>肢体互动（虚拟） on VRChat 社交指南</title>
-    <link>http://localhost:1313/zh/docs/interaction_pattern/physical_interaction/</link>
+    <link>http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/physical_interaction/</link>
     <description>Recent content in 肢体互动（虚拟） on VRChat 社交指南</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:1313/zh/docs/interaction_pattern/physical_interaction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/physical_interaction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>边界感</title>
-      <link>http://localhost:1313/zh/docs/interaction_pattern/physical_interaction/sense_of_boundaries/</link>
+      <link>http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/physical_interaction/sense_of_boundaries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/docs/interaction_pattern/physical_interaction/sense_of_boundaries/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/physical_interaction/sense_of_boundaries/</guid>
       <description>&lt;h1 id=&#34;边界感&#34;&gt;&#xA;  边界感&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%be%b9%e7%95%8c%e6%84%9f&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
   </channel>

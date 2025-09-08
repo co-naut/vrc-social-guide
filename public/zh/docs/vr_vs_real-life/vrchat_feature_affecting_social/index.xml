@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vrchat影响社交选择的特性 on VRChat 社交指南</title>
-    <link>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/</link>
+    <link>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/</link>
     <description>Recent content in Vrchat影响社交选择的特性 on VRChat 社交指南</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>耳罩模式</title>
-      <link>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</link>
+      <link>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/ear_muff_mode/</guid>
       <description>&lt;h1 id=&#34;耳罩模式&#34;&gt;&#xA;  耳罩模式&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%80%b3%e7%bd%a9%e6%a8%a1%e5%bc%8f&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>模型</title>
-      <link>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</link>
+      <link>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/avatar/</guid>
       <description>&lt;h1 id=&#34;模型&#34;&gt;&#xA;  模型&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%a8%a1%e5%9e%8b&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>匿名性</title>
-      <link>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</link>
+      <link>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/anonymous/</guid>
       <description>&lt;h1 id=&#34;匿名性&#34;&gt;&#xA;  匿名性&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%8c%bf%e5%90%8d%e6%80%a7&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>屏蔽/静音功能</title>
-      <link>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</link>
+      <link>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</guid>
+      <guid>http://localhost:1313/vrc-social-guide/zh/docs/vr_vs_real-life/vrchat_feature_affecting_social/block_mute_feature/</guid>
       <description>&lt;h1 id=&#34;屏蔽静音功能&#34;&gt;&#xA;  屏蔽/静音功能&#xA;  &#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%b1%8f%e8%94%bd%e9%9d%99%e9%9f%b3%e5%8a%9f%e8%83%bd&#34;&gt;#&lt;/a&gt;&#xA;  &#xA;&lt;/h1&gt;</description>
     </item>
   </channel>

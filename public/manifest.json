@@ -1,14 +1,14 @@
 {
   "name": "VRChat Social Guide",
   "short_name": "VRChat Social Guide",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/vrc-social-guide/",
+  "scope": "/vrc-social-guide/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/vrc-social-guide/favicon.svg",
       "sizes": "512x512"
     }
   ]

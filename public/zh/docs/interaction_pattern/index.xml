@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>互动模式 on VRChat 社交指南</title>
-    <link>http://localhost:1313/zh/docs/interaction_pattern/</link>
+    <link>http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/</link>
     <description>Recent content in 互动模式 on VRChat 社交指南</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:1313/zh/docs/interaction_pattern/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/vrc-social-guide/zh/docs/interaction_pattern/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
