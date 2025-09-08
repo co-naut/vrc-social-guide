@@ -2,3 +2,9 @@ home:
   - name: "Guidebook"
     url: "/docs/vr_vs_real-life/"
     weight: 1
+  - name: "Github"
+    url: "https://github.com/co-naut/vrc-social-guide"
+    weight: 2
+  - name: "中文"
+    url: "/zh"
+    weight: 3
