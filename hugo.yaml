@@ -12,7 +12,6 @@ languages:
     languageName: 简体中文
     weight: 20
 
-
 # template is from alex-shpak/hugo-book
 module:
   imports:
@@ -31,3 +30,9 @@ params:
 caches:
   images:
     dir: :cacheDir/images
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
