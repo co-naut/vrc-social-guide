@@ -1,10 +1,8 @@
 home:
   - name: "指南手册"
     url: "/zh/docs/vr_vs_real-life/"
-    weight: 1
+    weight: 10
+    
   - name: "Github"
     url: "https://github.com/co-naut/vrc-social-guide"
-    weight: 2
-  - name: "English"
-    url: "/en"
-    weight: 3
+    weight: 0

@@ -35,7 +35,13 @@ Feel free to:
 - Focus on helpful observations rather than criticism
 - Respect people's privacy when sharing stories
 - Keep things constructive and positive
+
+
+
+This site is based on [hugo-book](https://github.com/alex-shpak/hugo-book) by alex-shpak.
+
+
 ---
 *This is just a small project, but I hope it can grow into something useful for the VRChat community. Thanks for checking it out!*
----
+
 **[简体中文版 README](README_zh.md)**

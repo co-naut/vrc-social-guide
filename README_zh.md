@@ -44,8 +44,11 @@ VRChat 在很多有趣的方面改变了我们的互动方式：
 *   分享故事时，请尊重他人隐私。
 *   让我们的讨论保持建设性和积极性。
 
+
+
+该网站基于 [hugo-book](https://github.com/alex-shpak/hugo-book) by alex-shpak.
+
 ***
 *这只是个小项目，但我希望它能成长为对 VRChat 社区有用的东西。感谢你的关注！*
-***
 
 **[English README](README.md)**
