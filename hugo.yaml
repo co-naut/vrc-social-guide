@@ -28,3 +28,6 @@ markup:
 params:
   BookTheme: auto
 
+caches:
+  images:
+    dir: :cacheDir/images
