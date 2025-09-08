@@ -1,0 +1,23 @@
+<!-- Landing page language switcher with click interaction -->
+{{ if hugo.IsMultilingual }}
+  <div class="landing-languages">
+    <input type="checkbox" id="landing-languages" class="toggle" />
+    <label for="landing-languages" class="language-trigger">
+      <img src="{{ "svg/translate.svg" | relURL }}" class="language-icon" alt="Languages" />
+      <span>{{ .Site.Language.LanguageName }}</span>
+      <span class="dropdown-arrow">▼</span>
+    </label>
+    
+    <ul class="language-dropdown">
+      {{ range .Site.Languages }}
+        {{ if ne .Lang $.Site.Language.Lang }}
+          <li>
+            <a href="{{ if eq .Lang "en" }}{{ $.Site.BaseURL }}{{ else }}{{ $.Site.BaseURL }}/{{ .Lang }}{{ end }}">
+              <span>{{ .LanguageName }}</span>
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
