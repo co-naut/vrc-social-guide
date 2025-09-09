@@ -364,6 +364,7 @@ body[dir="rtl"] .book-menu {
     height: 1em;
     margin-right: 0.5rem;
     vertical-align: baseline;
+    filter: var(--icon-filter);
   }
   
   .dropdown-arrow {
@@ -377,8 +378,8 @@ body[dir="rtl"] .book-menu {
     position: absolute;
     top: 100%;
     right: 0;
-    background: white;
-    border: 1px solid #ddd;
+    background: var(--body-background);
+    border: 1px solid var(--gray-200);
     border-radius: 0.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     min-width: 120px;
@@ -394,11 +395,11 @@ body[dir="rtl"] .book-menu {
         display: block;
         padding: 0.5rem 1rem;
         text-decoration: none;
-        color: inherit;
+        color: var(--body-font-color);
         white-space: nowrap;
         
         &:hover {
-          background-color: #f5f5f5;
+          background-color: var(--gray-100);
         }
       }
     }
