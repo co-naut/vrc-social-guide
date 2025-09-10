@@ -21,8 +21,10 @@ markup:
   tableOfContents:
     startLevel: 1
 
-# params:
-#   BookTheme: auto
+params:
+  theme:
+    default: system
+    displayToggle: true
 
 caches:
   images:

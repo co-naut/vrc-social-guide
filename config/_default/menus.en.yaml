@@ -1,8 +1,25 @@
-home:
-  - name: "Guidebook"
-    url: "/docs/vr_vs_real-life/"
-    weight: 1
-  - name: "Github"
+main:
+  - name: Search
+    weight: 4
+    params:
+      type: search
+  - name: Language Switcher
+    weight: 5
+    params:
+      type: language-switch
+      icon: "globe-alt"
+  - name: Theme Toggle
+    weight: 6
+    params:
+      type: theme-toggle
+      label: false
+  - name: GitHub
+    weight: 7
     url: "https://github.com/co-naut/vrc-social-guide"
-    weight: 100
-
+    params:
+      icon: github
+  - name: discord
+    url: "https://discord.gg/k3ApTs69"
+    weight: 8
+    params:
+      icon: discord
