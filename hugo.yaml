@@ -25,6 +25,8 @@ params:
   theme:
     default: system
     displayToggle: true
+  footer:
+    enable: false
 
 caches:
   images:

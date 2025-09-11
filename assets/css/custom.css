@@ -1,3 +1,49 @@
-.root {
-  font-family: "Roboto";
+
+
+
+/* Source Han Sans font face definitions */
+@font-face {
+  font-family: "Source Han Sans";
+  src: url("/fonts/SourceHanSans-Regular.ttc") format("truetype-collection");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Sans";
+  src: url("/fonts/SourceHanSans-Medium.ttc") format("truetype-collection");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Sans";
+  src: url("/fonts/SourceHanSans-Bold.ttc") format("truetype-collection");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Default font for English and fallback */
+:root {
+  font-family: "Roboto", system-ui, sans-serif;
+}
+
+/* English pages explicitly use Roboto */
+[lang="en"] {
+  font-family: "Roboto", system-ui, sans-serif;
+}
+
+/* Chinese pages use Source Han Sans */
+[lang="zh"], [lang="zh-CN"] {
+  font-family: "Source Han Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimHei", sans-serif;
+}
+
+/* Headings use clean system fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 700;
+  letter-spacing: -0.025em;
 }
