@@ -38,7 +38,7 @@ Feel free to:
 
 
 
-This site is based on [hugo-book](https://github.com/alex-shpak/hugo-book) by alex-shpak.
+This site is based on [hextra](https://github.com/imfing/hextra) by imfing.
 
 
 ---

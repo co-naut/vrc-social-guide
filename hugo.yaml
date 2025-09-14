@@ -1,4 +1,4 @@
-# template is based on alex-shpak/hugo-book
+# template is based on imfing/hextra
 
 baseURL: https://co-naut.github.io/vrc-social-guide
 
@@ -35,3 +35,14 @@ caches:
 module:
   imports:
     - path: github.com/imfing/hextra
+
+params:
+  comments:
+    enable: true
+    type: giscus
+
+    giscus:
+      repo: co-naut/vrc-social-guide
+      repoId: R_kgDOPrMyDw
+      category: Ideas
+      categoryId: DIC_kwDOPrMyD84Cvady

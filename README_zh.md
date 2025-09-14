@@ -46,7 +46,7 @@ VRChat 在很多有趣的方面改变了我们的互动方式：
 
 
 
-该网站基于 [hugo-book](https://github.com/alex-shpak/hugo-book) by alex-shpak.
+该网站基于 [hextra](https://github.com/imfing/hextra) by imfing.
 
 ***
 *这只是个小项目，但我希望它能成长为对 VRChat 社区有用的东西。感谢你的关注！*
