@@ -1,18 +1,18 @@
 main:
-  - name: Search
-    weight: 4
-    params:
-      type: search
   - name: Language Switcher
-    weight: 5
+    weight: 4
     params:
       type: language-switch
       icon: "globe-alt"
   - name: Theme Toggle
-    weight: 6
+    weight: 5
     params:
       type: theme-toggle
       label: false
+  - name: Search
+    weight: 6
+    params:
+      type: search
   - name: GitHub
     weight: 7
     url: "https://github.com/co-naut/vrc-social-guide"
