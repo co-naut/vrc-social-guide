@@ -1,21 +1,11 @@
 ---
-title: Introduction
-bookHeadingAnchor: false
-layout: landing
+title: VRChat Social Guide
 ---
 
-<div class="book-hero">
-
-# VRChat Social Guide
-
-  <!-- {{< figure src="./images/vrc-banner.jpg" >}} -->
-
-{{< cards cols="2" ratio="3:2">}}
-{{< card link="./docs/vr_vs_real-life/" title="Welcome to vrchat" image="images/vrc-banner.jpg">}}
-{{< card link="./docs/vr_vs_real-life/" title="Let's Get Started!" subtitle="While I may not know VRChat inside and out, I still want to share some of my insights. Discussion features are under development, so if you have something to say, you can join our Discord server or submit a PR.">}}
+{{< cards cols="2">}}
+{{< card link="./docs/vr_vs_real-life/" title="Welcome to VRChat" image="./images/vrc-banner.jpg">}}
+{{< card link="./docs/vr_vs_real-life/" title="Let's Get Started!" content="While I may not know VRChat inside and out, I still want to share some of my insights. Discussion features are under development, so if you have something to say, you can join our Discord server or submit a PR.">}}
 {{< /cards >}}
-
-</div>
 
 ## About This Project
 

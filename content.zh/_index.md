@@ -1,19 +1,11 @@
 ---
-title: 简介
-bookHeadingAnchor: false
-layout: landing
+title: VRChat 社交指南
 ---
-
-<div class="book-hero">
-
-# VRChat 社交指南
 
 {{< cards cols="2">}}
 {{< card link="./docs/vr_vs_real-life/" title="欢迎来到VRCHAT" image="../images/vrc-banner.jpg">}}
-{{< card link="./docs/vr_vs_real-life/" title="让我们开始吧！"subtitle="虽然并不算十分了解VRChat，但依旧会想要分享一些自己的见解。讨论功能正在开发中，如果你想要说些什么，你可以先进我们的Discord群或者给我们提交PR。">}}
+{{< card link="./docs/vr_vs_real-life/" title="让我们开始吧！" content="虽然并不算十分了解VRChat，但依旧会想要分享一些自己的见解。讨论功能正在开发中，如果你想要说些什么，你可以先进我们的Discord群或者给我们提交PR。">}}
 {{< /cards >}}
-
-</div>
 
 ## 关于此项目
 

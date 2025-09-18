@@ -8,7 +8,7 @@ languages:
     contentDir: content.en
     languageName: English
     weight: 10
-  zh:
+  zh-cn:
     title: VRChat 社交指南
     contentDir: content.zh
     languageName: 简体中文
@@ -36,7 +36,7 @@ module:
 
 params:
   comments:
-    enable: true
+    enable: false
     type: giscus
 
     giscus:
@@ -44,3 +44,34 @@ params:
       repoId: R_kgDOPrMyDw
       category: Ideas
       categoryId: DIC_kwDOPrMyD84Cvady
+
+menus:
+  main:
+    - name: Documentation
+      weight: 1
+      pageRef: /docs
+      identifier: documentation
+    - name: Language Switcher
+      weight: 4
+      params:
+        type: language-switch
+        icon: "globe-alt"
+    - name: Theme Toggle
+      weight: 5
+      params:
+        type: theme-toggle
+        label: false
+    - name: Search
+      weight: 6
+      params:
+        type: search
+    - name: GitHub
+      weight: 7
+      url: "https://github.com/co-naut/vrc-social-guide"
+      params:
+        icon: github
+    - name: discord
+      url: "https://discord.gg/k3ApTs69"
+      weight: 8
+      params:
+        icon: discord

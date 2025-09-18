@@ -4,11 +4,7 @@ weight: 1
 title: "VR vs Reality"
 ---
 
-# VR vs Reality
-
 ## How is social interaction on VRChat different from reality?
-
----
 
 ### Characteristics of Real-life Social Interaction
 
@@ -29,7 +25,5 @@ This kind of beginning gives players a completely new option: continuously seeki
 ......
 
 ## About This Chapter
-
----
 
 This chapter will focus on discussing the impact of VRChat's virtual nature (including the broad characteristics of anonymous networks as well as VRChat's unique features) on people's social choices in this game.

@@ -1,3 +1,4 @@
 ---
-bookFlatSection: true
+linktitle: Documentation
+title: Guide
 ---

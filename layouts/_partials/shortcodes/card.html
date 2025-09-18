@@ -10,6 +10,7 @@
 {{- $tagColor := .tagColor | default .tagType | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
 {{- $tagBorder := not (eq .tagBorder false) | default true }}
 {{- $tagIcon := .tagIcon -}}
+{{- $content := .content -}}
 
 {{ $linkClass := "hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900" }}
 {{- with $image -}}
@@ -52,6 +53,9 @@
   </span>
   {{- with $subtitle -}}
     <div class="hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2">{{- $subtitle | markdownify -}}</div>
+  {{- end -}}
+  {{- with $content -}}
+    <div class="hextra-card-content hx:text-sm hx:font-normal hx:text-gray-600 hx:dark:text-gray-300 hx:px-4 hx:mb-4">{{- $content | markdownify -}}</div>
   {{- end -}}
 
   {{- if $tag }}
