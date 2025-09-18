@@ -1,7 +1,7 @@
 {{- $lang := site.Language.Lang | default `en` -}}
-{{- if hasPrefix $lang "zh" -}}
-  {{- /* See: https://github.com/giscus/giscus/tree/main/locales */}}
-  {{- $lang = site.Language.LanguageCode | default `zh-CN` -}}
+{{- $giscusLang := `en` -}}
+{{- if or (eq $lang "zh") (eq $lang "zh-cn") -}}
+  {{- $giscusLang = `zh-CN` -}}
 {{- end -}}
 
 {{- with site.Params.comments.giscus -}}
@@ -58,7 +58,7 @@
       "data-emit-metadata": "{{ (string .emitMetadata) | default 0 }}",
       "data-input-position": "{{ .inputPosition | default `top` }}",
       "data-theme": getGiscusTheme(),
-      "data-lang": "{{ if eq site.Language.Lang `zh` }}zh-CN{{ else }}en{{ end }}",
+      "data-lang": "{{ $giscusLang }}",
       "crossorigin": "anonymous",
       "async": "",
     };
